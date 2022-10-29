@@ -28,7 +28,7 @@ This is also a simplified form of the [documentations](https://docs.github.com/e
 
 ### Navigation guides
 
-This projects focused on the below seven sub-sections and contain exercises at the end of every modules.
+We will focus on the following seven (7) project-based sub-sections.
 
 1.  [Introduction to Git](/beginner-intermediate/0-intro-to-git.md)
 2.  [Basic Linux Commands](/beginner-intermediate/1-basic-linux-commands.md)
